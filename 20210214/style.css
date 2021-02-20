@@ -12,13 +12,16 @@ select{min-width: 15rem;padding: .2rem;}
 pre{height: 20rem; overflow: auto;margin: 0}
 em{color: #aaa}
 
+.bg1{background: #fff7d1;}
+.bg2{background: #e8f6ff;}
+.bg3{background: #ffd7d1;}
+
 #foo .sortable-drag {background: #daf4ff;}
 
 
 .block__listL {max-width: 360px;}
 .block__list, .block__listL {background-color: #fff;}
-.block__list_words li {background-color: #fff;}
-.title {color: #fff;background-color: #a38a72;}
+.title {color: #fff;background-color: #72a393;}
 
 .Cmove li { cursor: move; }
 .Cmove i{float: right;cursor: pointer;}
