@@ -4,4 +4,4 @@
 
 [![](https://img.shields.io/badge/website-kumame.github.io/your_history-blue.svg?style=for-the-badge&logo=appveyor)](https://kumame.github.io/your_history)
 
-- [20200214](https://kumame.github.io/your_history/20200214) / Wland相关事件
+- [20200214](https://kumame.github.io/your_history/20210214/) / Wland相关事件
