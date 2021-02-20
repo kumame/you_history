@@ -1,0 +1,20 @@
+html {background:#98c1ae;}
+html, body {color:#337e81}
+
+h4{color: #fffbf1}
+h3{color: #6d8e7f}
+
+em{color: #aaa; margin: 0 .5rem}
+a {color: #6d8e7f;}
+
+.container a {font-size: 1.5rem;text-decoration: none; color: #967d65}
+
+.block__list, .block__listL {background-color: #fff;}
+.block__list_words li {background-color: #fff;}
+.title {color: #fff;background-color: #88705c;}
+
+.Bnt {display: block; background: #a38a72; color: #fff;}
+.Bnt:hover{background: #b9a18a}
+.T2.Bnt {display: inline-block; padding: 0 1rem;margin-left:1rem}
+
+.foot a {font-weight: bold;}
